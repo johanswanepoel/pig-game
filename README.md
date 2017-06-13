@@ -1,4 +1,4 @@
-# pipg-game
+# Pig Game
 Pig Game based on a tutorial by Jonas Schmedtmann.
 
 To use:
