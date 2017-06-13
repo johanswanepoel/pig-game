@@ -1,0 +1,24 @@
+{
+  "name": "4-DOM-Pig-Game",
+  "version": "1.0.0",
+  "description": "Pig Game based on a tutorial by Jonas Schmedtmann.",
+  "main": "app.js",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johanswanepoel/pig-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johanswanepoel/pig-game/issues"
+  },
+  "homepage": "https://github.com/johanswanepoel/pig-game#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
