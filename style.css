@@ -136,7 +136,7 @@ i {
     margin-top: -4px;
     transition: margin 0.3s;
 }
-
+.btn-rules {top: 15px;}
 .btn-new { top: 45px;}
 .btn-roll { top: 403px;}
 .btn-hold { top: 467px;}
